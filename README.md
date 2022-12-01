@@ -41,9 +41,11 @@ Step 4 : Test for the XOR patterns.
 
 ## PROGRAM:
 ~~~
-Developed By: Guhanandan V
+#Developed By: Guhanandan V
 
-Register No: 212221220014
+#Register No: 212221220014
+
+
 import numpy as np
 import pandas as pd
 import io
@@ -116,6 +118,14 @@ predict(w1,w2,test)
 ~~~
 
 ## OUTPUT:
+
+### Loss Graph
+
+![Loss_graph](https://user-images.githubusercontent.com/100425381/205036561-9d7967f9-6ffb-4f34-8d49-e4457fc82f8d.png)
+
+### Input - Output for XOR Gate
+
+![IO_for_XOR_gate](https://user-images.githubusercontent.com/100425381/205036595-30f2cb3c-190b-4037-a494-35c53785a709.png)
 
 ## RESULT:
 Thus the implementation of MLP for non-linear separable problem is executed successfully.
